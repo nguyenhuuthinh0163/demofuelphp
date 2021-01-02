@@ -2,7 +2,8 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Hi, I'm FuelPHP Framework . Nice to meet you</title>
+	<title>Hi, I'm FuelPHP Framework . Nice to meet you
+	this is second commit</title>
 	<?php echo Asset::css('bootstrap.css'); ?>
 	<style>
 		#logo{
