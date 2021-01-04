@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Hi, I'm FuelPHP Framework . Nice to meet you
-	this is second commit áâs</title>
+	this is second commit</title>
 	<?php echo Asset::css('bootstrap.css'); ?>
 	<style>
 		#logo{
@@ -40,6 +40,7 @@
 		<div class="jumbotron">
 			<h1>Welcome!</h1>
 			<p>You have successfully installed the FuelPHP Framework.</p>
+			<p>This is thirst commit</p>
 			<p><a class="btn btn-primary btn-lg" href="https://docs.fuelphp.com">Read the Docs</a></p>
 		</div>
 		<div class="row">
